@@ -9,5 +9,3 @@ __[Pathway to Data Science:](https://github.com/kjkjindal/Machine-Learning/blob/
 
 ## Currently ongoing projects
 Developing GANs to produce biologically relevant genomics data<br/>
-Writitng a Deep Learning Hanbook (inspired by the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do)
-)
